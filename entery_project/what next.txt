@@ -1,0 +1,34 @@
+-  make basic components of tkinter
+-  make Tkinter for the homebage OK
+-  make Tkinter for the new OK
+-  make Tkintter for freq OK
+-  adding as csv OK
+-  make file validation functions OK
+-  make input verification functions OK
+-  make inputting functions for freq and new OK
+-  make HTMLs functions for rendering data OK
+-  connecting new tkinter and functions OK
+-  connecting freq tkinter and functions OK
+-  ender html OK !! the html rendered first is the html from the opening of the program
+-  update each html OK
+-  updeate freq ok
+-  add data column in freq OK
+-  searching funcs => find date - find id OK
+-  attach searching funcs with search components(search OK)
+-  add html init OK
+-  add search for today in the init of the program OK
+-  attach searching funcs with search components(create-add-end html) OK
+-  create temp functions for comunicating between tkinters OK
+-  make edit finder in tkinter
+-  link edit function to edit
+-  send file name edit
+-  add edit option Tkinter
+-  fix editing text
+-  add edit option backend (save the values)
+-  complete verify freq
+-  daytime in freq
+-  make explicit edit for the freq then make if condition for the edit freq (delete row, add new freq with the time is the same)
+-  delete opt
+
+add exception empty to hist    x
+add edit option don't forget to edit the html
